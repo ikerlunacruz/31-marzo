@@ -84,6 +84,26 @@ body{
 }
 
 /* Otras clases */
+
+.section-1 {
+    background-color: blue;
+    text-align: center;
+}
+
+.section-2 {
+    background-color: yellow;
+    text-align: center;
+}
+
+.section-3 {
+    background-color: red;
+    text-align: center;
+}
+
+.section-4 {
+    background-color: blue;
+    text-align: center;
+}
 /* clase para centrar contenido en horizontal y vertical (lo centra respecto al elemento padre) */
 .flex{
     display: flex;
